@@ -1,0 +1,8 @@
+,filename,path,depth,height,width,object_txt_path
+0,cat.1.jpg,./dataset/JPEGImage/cat.1.jpg,3,280,300,./txt/cat.1.txt
+1,cat.2.jpg,./dataset/JPEGImage/cat.2.jpg,3,396,312,./txt/cat.2.txt
+2,cat.3.jpg,./dataset/JPEGImage/cat.3.jpg,3,414,500,./txt/cat.3.txt
+3,cat.4.jpg,./dataset/JPEGImage/cat.4.jpg,3,375,499,./txt/cat.4.txt
+4,cat.5.jpg,./dataset/JPEGImage/cat.5.jpg,3,144,175,./txt/cat.5.txt
+5,cat.6.jpg,./dataset/JPEGImage/cat.6.jpg,3,303,400,./txt/cat.6.txt
+6,img1.jpg,./dataset/JPEGImage/img1.jpg,3,500,336,./txt/img1.txt
